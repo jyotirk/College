@@ -44,7 +44,7 @@ for i in range(n):
     at.append(int(input()))
 
 # T===== Taking burst timmings ==========    
-print("Enter burst timmings for the processess")
+print("Enter burst timmings for the processess in order of process ids")
 for i in range(n):
     bt.append(int(input()))
     
